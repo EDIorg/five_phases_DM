@@ -11,7 +11,7 @@ This document contains current "Best Practice" recommendations for EML content f
 
 EML Best Practice recommendations have evolved over time. The most active contributors have been members of the LTER Information Manager's Committee during multiple working groups (see [History](#history). EML has been widely used for several years with multiple applications written against it, and the community has had the opportunity to observe the consequences of many content patterns. As much as possible, recommendations have been aligned with the capability of dataset contributors, as well as with those experiences. 
 
-At time of this document's publication (late 2017), the version of EML currently in production was EML.2.1.1. EML 2.2.0 is anticipated within the next year. Contact <a mailto="info@environmentalDataInitiative.org">EDI</a> for more information.
+At time of this document's publication (late 2017), the version of EML currently in production was EML.2.1.1. EML 2.2.0 is anticipated within the next year. Contact <a mailto="info@edirepository.org">EDI</a> for more information.
 
 ## <a name="other-resources">Other EML Resources
 
@@ -31,7 +31,7 @@ LTER Unit dictionary: <http://unit.lternet.edu>
 ## <a name="history">Timeline and Previous Revisions
 =================================
 * 2017 EML BP v 3 link here to the doc TBD
-* 2016 EDI inception (see http://environmentaldatainitiative.org)
+* 2016 EDI inception (see http://edirepository.org)
 * 2011 LTER EML BP v2 - include a link to the PDF in /files/
 * 2008 EML 2.1 release
 * 2004 LTER EML BP v1 - include a link to the PDF in /files/
